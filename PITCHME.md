@@ -2,23 +2,19 @@
 
 Com sobreviure a l'era post-Snowden
 
-#HSLIDE
+---
 
 [Presentació]
 
-#VSLIDE
++++?image=assets/sobtec2016.png
 
----?image=assets/sobtec2016.png
-
-footnote: [Cooperatives, pirates i chavistes: el congrés dels ‘antiMobile’ - El País, 20 de febrer de 2016](http://cat.elpais.com/cat/2016/02/20/catalunya/1455987629_287544.html)
-
-#HSLIDE
+---
 
 [Metàfora]
 
 * Psycho-Pass
 
-#HSLIDE
+---
 
 [Vectors]
 
@@ -32,14 +28,20 @@ footnote: [Cooperatives, pirates i chavistes: el congrés dels ‘antiMobile’ 
   * Missatgeria
   * Aplicacions
 
-#HSLIDE
+---
 
 [Premises: gratuït = tu ets el producte]
 
-#HSLIDE
+---
 
 []
 
-#HSLIDE
+---
 
 [Agraïments i contacte]
+
+---
+
+[Bibliografia]
+
+[Cooperatives, pirates i chavistes: el congrés dels ‘antiMobile’ - El País, 20 de febrer de 2016](http://cat.elpais.com/cat/2016/02/20/catalunya/1455987629_287544.html)
