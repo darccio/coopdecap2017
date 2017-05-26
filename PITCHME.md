@@ -1,4 +1,4 @@
-# Sobreviure a l'era post-Snowden
+# Sobreviure en l'era post-Snowden
 
 Aprenent a navegar de forma segura
 
