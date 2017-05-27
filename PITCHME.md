@@ -21,11 +21,11 @@ i@dario.im / @im_dario
 - Adreça IP          |
 - Navegador          |
 - Sistema operatiu   |
+- Edat, gènere, etc. |
 - Gustos             |
   - Pàgines visitades: cookies i anuncis
   - Xarxes socials: què hi publiquem
   - Missatgeria: què hi diem (WhatsApp / Messenger)
-- Edat, gènere, etc. |
 
 ---?image=assets/now-panic-and-freak-out-bg.png
 
