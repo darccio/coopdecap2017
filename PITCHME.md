@@ -33,6 +33,10 @@ També aplicable a:
 
 ---?image=assets/now-panic-and-freak-out.png
 
+<!-- .slide id="panic" -->
+
+---
+
 [Premises]
 
 - gratuït = tu ets el producte
