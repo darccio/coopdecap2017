@@ -2,9 +2,9 @@
 
 Aprenent a navegar de forma segura
 
----
-
 ![Coop de Cap Anoia 2017](assets/coopdecap.png)
+
+---
 
 ### Dario Castañé
 
