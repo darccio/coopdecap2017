@@ -18,14 +18,14 @@ i@dario.im / @im_dario
 
 ### Rastre personal
 
-* Adreça IP          |
-* Navegador          |
-* Sistema operatiu   |
-* Gustos             |
-  * Pàgines visitades
-  * Xarxes socials
-  * Missatgeria: WhatsApp / Messenger
-* Edat, gènere, etc. |
+- Adreça IP          |
+- Navegador          |
+- Sistema operatiu   |
+- Gustos             |
+  - Pàgines visitades
+  - Xarxes socials
+  - Missatgeria: WhatsApp / Messenger
+- Edat, gènere, etc. |
 
 ---
 
