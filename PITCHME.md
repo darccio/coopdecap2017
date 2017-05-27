@@ -22,34 +22,24 @@ i@dario.im / @im_dario
 - Navegador          |
 - Sistema operatiu   |
 - Gustos             |
-  - Pàgines visitades
-  - Xarxes socials
-  - Missatgeria: WhatsApp / Messenger
+  - Pàgines visitades: cookies i anuncis
+  - Xarxes socials: què hi publiquem
+  - Missatgeria: què hi diem (WhatsApp / Messenger)
 - Edat, gènere, etc. |
 
----
+També aplicable a:
+  - Aplicacions mòbils
+  - Correu electrònic
 
-### Vectors
-
-* Ordinador
-  * SO: WannaCry
-  * Navegador
-  * Correu electrònic
-  * Missatgeria
-* Mòbil
-  * Navegador
-  * Missatgeria
-  * Aplicacions
-
----
+---?image=assets/now-panic-and-freak-out.png
 
 [Premises]
 
-* gratuït = tu ets el producte
-* privacitat
-* obert/lliure
-* criptografia: E2E
-* descentralització/federació
+- gratuït = tu ets el producte
+- privacitat
+- obert/lliure
+- criptografia: E2E
+- descentralització/federació
 
 ---
 
@@ -65,5 +55,5 @@ i@dario.im / @im_dario
 
 ### Bibliografia
 
-* [Cooperatives, pirates i chavistes: el congrés dels ‘antiMobile’ - El País, 20 de febrer de 2016](http://cat.elpais.com/cat/2016/02/20/catalunya/1455987629_287544.html)
-* [Taller de seguretat i privacitat: eines i comportaments per a protegir-te a tu i a qui t'envolta - Críptica, 2017](https://gitpitch.com/CripticaOrg/presentacio-eines-2017/master)
+- [Cooperatives, pirates i chavistes: el congrés dels ‘antiMobile’ - El País, 20 de febrer de 2016](http://cat.elpais.com/cat/2016/02/20/catalunya/1455987629_287544.html)
+- [Taller de seguretat i privacitat: eines i comportaments per a protegir-te a tu i a qui t'envolta - Críptica, 2017](https://gitpitch.com/CripticaOrg/presentacio-eines-2017/master)
