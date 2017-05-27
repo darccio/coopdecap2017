@@ -50,9 +50,7 @@ i@dario.im / @im_dario
 
 ### Gràcies!
 
-i@dario.im
-
-@im_dario
+i@dario.im / @im_dario
 
 ---
 
