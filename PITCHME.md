@@ -27,13 +27,11 @@ i@dario.im / @im_dario
   - Missatgeria: què hi diem (WhatsApp / Messenger)
 - Edat, gènere, etc. |
 
-També aplicable a:
-  - Aplicacions mòbils
-  - Correu electrònic
+---
 
----?image=assets/now-panic-and-freak-out.png
+<!-- .slide data-level="panic" -->
 
-<!-- .slide id="panic" -->
+![NOW PANIC AND FREAK OUT](assets/now-panic-and-freak-out.png)
 
 ---
 
