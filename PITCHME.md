@@ -46,7 +46,7 @@ i@dario.im / @im_dario
 
 ### Sistema operatiu
 
-+++?image=assets/gnu-linux.png
++++?image=assets/gnu-linux.jpg
 
 +++
 
@@ -65,7 +65,9 @@ i@dario.im / @im_dario
 
 ### Navegador
 
-- Mozilla Firefox
++++
+
+#### Mozilla Firefox
 
 ![Mozilla Firefox](assets/firefox.jpg)
 
@@ -92,9 +94,21 @@ i@dario.im / @im_dario
 
 ### Missatgeria
 
++++
+
+#### Recomanacions
+
 - Riot/Matrix: riot.im
 - Signal
 - Telegram \*
+
++++
+
+#### I si...
+
+- els meus amics estan a altres?
+  - Animar-los a canviar
+  - Intentar emprar aplicacions d'escriptori
 
 ---
 
@@ -120,11 +134,14 @@ i@dario.im / @im_dario
 
 ### Dispositius mòbils
 
-- Localització: Prey i desactivar Google
-- Compra a Xina!
++++
+
+#### Resum
+
 - Android
-- Wifi
-- F-Droid
+- Compte Google separat
+- Vigilar amb les compres a Xina
+- Llar és on la wifi es connecta automàticament
 
 ---
 
@@ -132,7 +149,7 @@ i@dario.im / @im_dario
 
 +++
 
-### Contrasenyes
+#### Contrasenyes
 
 - Keepass: emmagatzematge independent i segur
 
@@ -140,18 +157,37 @@ i@dario.im / @im_dario
 
 +++
 
-### 2FA
+#### 2FA
 
 - FreeOTP
 - Google Authenticator
 
 +++
 
-### Enginyeria social
+#### Google
+
+- No mantenir sessió oberta
+- Revisar Google Dashboard: myaccount.google.com
 
 +++
 
-### Camuflatge
+#### Xarxes socials
+
+- Minimitzar les dades personals
+- No publicar fotografies d'amics i coneguts sense permís
+- Pensar dues vegades abans de publicar
+- Aïllar amb nativifier \*
+
++++
+
+#### Enginyeria social
+
+- Phishing/Spear phishing
+- NFC/Bluetooth
+
++++
+
+#### Camuflatge
 
 - Tor
 - VPN
@@ -186,10 +222,8 @@ i@dario.im / @im_dario
 
 ### Bibliografia
 
-<div style="font-size: 10px;">
 - [Cooperatives, pirates i chavistes: el congrés dels ‘antiMobile’ - El País, 20 de febrer de 2016](http://cat.elpais.com/cat/2016/02/20/catalunya/1455987629_287544.html)
-- [Taller de seguretat i privacitat: eines i comportaments per a protegir-te a tu i a qui t'envolta - Críptica, 2017](https://gitpitch.com/CripticaOrg/presentacio-eines-2017/master)
+- [Taller de seguretat i privacitat - Críptica, 2017](https://gitpitch.com/CripticaOrg/presentacio-eines-2017/master)
 - [Smartphones: insegurs a tres bandes - Críptica, 2017](https://gitpitch.com/criptica/inseguretat-smartphone/master)
 - [Password Strength - xkcd, 10 d'agost de 2011](https://xkcd.com/936/)
 - [PRISM Break, 27 de maig de 2017](https://prism-break.org/)
-</div>
