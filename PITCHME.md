@@ -220,6 +220,8 @@ i@dario.im / @dario:matrix.org<br>
 i@dario.im / @dario:matrix.org<br>
 @im_dario / quitter.cat/dario
 
+![Aquesta obra està subjecta a una llicència de Reconeixement-CompartirIgual 4.0 Internacional de Creative Commons](assets/ccbysa.png)
+
 ---
 
 ### Bibliografia
