@@ -1,10 +1,14 @@
-# Com sobreviure en l'era post-Snowden
+## Com sobreviure en l'era post-Snowden
 
 Aprenent a navegar de forma segura
 
 ---
 
-[Presentació]
+### Dario Castañé
+
+i@dario.im
+
+@im_dario
 
 +++?image=assets/sobtec2016.png
 
@@ -48,11 +52,15 @@ Aprenent a navegar de forma segura
 
 ---
 
-[Agraïments i contacte]
+### Gràcies!
+
+i@dario.im
+
+@im_dario
 
 ---
 
-[Bibliografia]
+### Bibliografia
 
-[Cooperatives, pirates i chavistes: el congrés dels ‘antiMobile’ - El País, 20 de febrer de 2016](http://cat.elpais.com/cat/2016/02/20/catalunya/1455987629_287544.html)
-[Taller de seguretat i privacitat: eines i comportaments per a protegir-te a tu i a qui t'envolta - Críptica, 2017](https://gitpitch.com/CripticaOrg/presentacio-eines-2017/master)
+* [Cooperatives, pirates i chavistes: el congrés dels ‘antiMobile’ - El País, 20 de febrer de 2016](http://cat.elpais.com/cat/2016/02/20/catalunya/1455987629_287544.html)
+* [Taller de seguretat i privacitat: eines i comportaments per a protegir-te a tu i a qui t'envolta - Críptica, 2017](https://gitpitch.com/CripticaOrg/presentacio-eines-2017/master)
