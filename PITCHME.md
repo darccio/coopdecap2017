@@ -1,4 +1,4 @@
-# Sobreviu en l'era post-Snowden
+# Com sobreviure en l'era post-Snowden
 
 Aprenent a navegar de forma segura
 
@@ -16,6 +16,10 @@ Aprenent a navegar de forma segura
 
 ---
 
+[Rastre personal]
+
+---
+
 [Vectors]
 
 * Ordinador
@@ -30,7 +34,13 @@ Aprenent a navegar de forma segura
 
 ---
 
-[Premises: gratuït = tu ets el producte]
+[Premises]
+
+* gratuït = tu ets el producte
+* privacitat
+* obert/lliure
+* criptografia: E2E
+* descentralització/federació
 
 ---
 
@@ -45,3 +55,4 @@ Aprenent a navegar de forma segura
 [Bibliografia]
 
 [Cooperatives, pirates i chavistes: el congrés dels ‘antiMobile’ - El País, 20 de febrer de 2016](http://cat.elpais.com/cat/2016/02/20/catalunya/1455987629_287544.html)
+[Taller de seguretat i privacitat: eines i comportaments per a protegir-te a tu i a qui t'envolta - Críptica, 2017](https://gitpitch.com/CripticaOrg/presentacio-eines-2017/master)
