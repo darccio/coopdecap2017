@@ -4,19 +4,15 @@ Aprenent a navegar de forma segura
 
 ---
 
+![Coop de Cap Anoia 2017](assets/coopdecap.png)
+
 ### Dario Castañé
 
-i@dario.im
-
-@im_dario
+i@dario.im / @im_dario
 
 +++?image=assets/sobtec2016.png
 
----
-
-[Metàfora]
-
-* Psycho-Pass
+---?image=assets/psycho-pass.png
 
 ---
 
