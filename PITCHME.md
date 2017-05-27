@@ -104,11 +104,10 @@ i@dario.im / @im_dario
 
 +++
 
-#### I si...
+#### I si els meus amics estan a altres?             
 
-- els meus amics estan a altres?
-  - Animar-los a canviar
-  - Intentar emprar aplicacions d'escriptori
+- Animar-los a canviar                     |
+- Intentar emprar aplicacions d'escriptori |
 
 ---
 
