@@ -8,7 +8,7 @@ Aprenent a navegar de forma segura
 
 ### Dario Castañé
 
-i@dario.im / @im_dario
+i@dario.im / @im_dario / quitter.cat/dario / @dario:matrix.org
 
 +++?image=assets/sobtec2016.png
 
@@ -99,6 +99,7 @@ i@dario.im / @im_dario
 #### Recomanacions
 
 - Riot/Matrix: riot.im
+- Wire
 - Signal
 - Telegram \*
 
@@ -215,7 +216,7 @@ i@dario.im / @im_dario
 
 ### Gràcies!
 
-i@dario.im / @im_dario
+i@dario.im / @im_dario / quitter.cat/dario / @dario:matrix.org
 
 ---
 
