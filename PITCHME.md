@@ -27,25 +27,23 @@ i@dario.im / @im_dario
   - Missatgeria: què hi diem (WhatsApp / Messenger)
 - Edat, gènere, etc. |
 
----
-
-<!-- .slide data-level="panic" -->
+---?image=assets/now-panic-and-freak-out-bg.png
 
 ![NOW PANIC AND FREAK OUT](assets/now-panic-and-freak-out.png)
 
 ---
 
-[Premises]
-
-- gratuït = tu ets el producte
-- privacitat
-- obert/lliure
-- criptografia: E2E
-- descentralització/federació
+[]
 
 ---
 
-[]
+### Regles d'or
+
+- si és gratuït, tu ets el producte
+- prefereix privacitat
+- prefereix obert/lliure
+- prefereix criptografia: E2E
+- prefereix descentralització/federació
 
 ---
 
