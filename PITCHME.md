@@ -8,7 +8,8 @@ Aprenent a navegar de forma segura
 
 ### Dario Castañé
 
-i@dario.im / @im_dario / quitter.cat/dario / @dario:matrix.org
+i@dario.im / @dario:matrix.org<br>
+@im_dario / quitter.cat/dario
 
 +++?image=assets/sobtec2016.png
 
@@ -216,7 +217,8 @@ i@dario.im / @im_dario / quitter.cat/dario / @dario:matrix.org
 
 ### Gràcies!
 
-i@dario.im / @im_dario / quitter.cat/dario / @dario:matrix.org
+i@dario.im / @dario:matrix.org<br>
+@im_dario / quitter.cat/dario
 
 ---
 
